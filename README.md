@@ -793,7 +793,7 @@ allowed-tools:
 | **ccusage / ccflare** | 用量与成本分析 | https://github.com/SteveBeynon/claude-code-usage |
 | **Claude Squad** | 多实例管理 | https://github.com/smtg-ai/claude-squad |
 | **claude-code-router** | 请求路由（多模型分流） | https://github.com/musistudio/claude-code-router |
-| **剪贴板图片识别桥（ClipSight）** | 桌面版纯文本模型读图 | https://github.com/qiyuechen0929/ClipSight |
+| **剪贴板图片识别桥（ClipSight）** | 桌面版纯文本模型读图 | https://github.com/qiyuechen0929/vision-bridge |
 
 ---
 
