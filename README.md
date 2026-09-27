@@ -1,5 +1,10 @@
 # Claude Code 中国大陆使用指南
 
+![banner](banner.svg)
+
+![For](https://img.shields.io/badge/For-中国大陆开发者-red) ![覆盖](https://img.shields.io/badge/覆盖-Claude_Code_+_Desktop-7c3aed) ![接入](https://img.shields.io/badge/接入-DeepSeek_/_GLM_/_Kimi-0969da)
+
+
 > 从零开始，在大陆网络环境下用上 Claude：终端版 Claude Code 写代码、桌面版 Claude Desktop 做助手，官方直连与第三方模型接入全覆盖，一册搞定。
 
 - **作者**：陈启粤
